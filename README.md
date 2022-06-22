@@ -56,7 +56,7 @@ Information
 
 ## Checking if my API end point still works
 
-'''
+```
 [root@orfdns ~]# /usr/local/bin/kubectl-vsphere login --vsphere-username administrator@vsphere.local --server=https://192.168.5.61 --insecure-skip-tls-verify
 
 KUBECTL_VSPHERE_PASSWORD environment variable is not set. Please enter the password below
@@ -174,7 +174,7 @@ vmware-system-vmop                          vmware-system-vmop-controller-manage
 vmware-system-vmop                          vmware-system-vmop-controller-manager-79fb54ffdf-gp64x            2/2     Running     4          60m
 vmware-system-vmop                          vmware-system-vmop-controller-manager-79fb54ffdf-n8xh4            2/2     Running     0          60m
 [root@orfdns ~]#
-'''
+```
 
 
 

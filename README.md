@@ -36,4 +36,7 @@ NAME                               STATUS   ROLES                  AGE   VERSION
 [root@orfdns ~]# 
 ```
 
+## Now lets put ESXi3 into maintenance mode 
+
+
 

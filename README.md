@@ -184,4 +184,17 @@ vmware-system-vmop                          vmware-system-vmop-controller-manage
 
 ![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/esx3withsup3.png)
 
+# Check on the API endpoint
+
+```
+[root@orfdns ~]# k get nodes
+NAME                               STATUS   ROLES                  AGE     VERSION
+4230512d69b675b89193359b22eabd78   Ready    control-plane,master   6h16m   v1.21.0+vmware.wcp.2
+42305dbfd81a86bffc44960b1343f25b   Ready    control-plane,master   6h16m   v1.21.0+vmware.wcp.2
+4230a504394228d74b4bc4be7bff0a7c   Ready    control-plane,master   6h21m   v1.21.0+vmware.wcp.2
+[root@orfdns ~]# 
+```
+
+# All looks good. One ESXi server placed into maintenance mode works. 
+
 

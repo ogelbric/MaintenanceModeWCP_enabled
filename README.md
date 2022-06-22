@@ -176,5 +176,9 @@ vmware-system-vmop                          vmware-system-vmop-controller-manage
 [root@orfdns ~]#
 ```
 
+# Removing the maintenance mode on the ESXi server
+
+![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/rem_maint.png)
+
 
 

@@ -38,5 +38,12 @@ NAME                               STATUS   ROLES                  AGE   VERSION
 
 ## Now lets put ESXi3 into maintenance mode 
 
+![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/m1.png)
+
+Some warnings 
+![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/w1.png)
+Information
+![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/w2.png)
+
 
 

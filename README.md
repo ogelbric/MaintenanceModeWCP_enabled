@@ -180,5 +180,8 @@ vmware-system-vmop                          vmware-system-vmop-controller-manage
 
 ![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/rem_maint.png)
 
+# After a few min the supervisor vm 3 moves back to ESX3
+
+![Version](https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/esx3withsup3.png)
 
 

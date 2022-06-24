@@ -195,6 +195,6 @@ NAME                               STATUS   ROLES                  AGE     VERSI
 [root@orfdns ~]# 
 ```
 
-# All looks good. One ESXi server placed into maintenance mode works. 
+All looks good. One ESXi server placed into maintenance mode at a time works.  The Kubernetes API end point and supervisor cluster keep on running. 
 
 

@@ -198,3 +198,8 @@ NAME                               STATUS   ROLES                  AGE     VERSI
 All looks good. One ESXi server placed into maintenance mode at a time works.  The Kubernetes API end point and supervisor cluster keep on running. 
 
 
+Also side note how to safly delete a Supervisor VM: 
+
+```
+https://github.com/ogelbric/MaintenanceModeWCP_enabled/blob/main/Safely%20delete%20a%20supervisor%20VM%20in%20TKGs.docx
+```
